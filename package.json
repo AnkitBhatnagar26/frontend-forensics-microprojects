@@ -1,0 +1,12 @@
+{
+  "name": "frontend-forensics-microprojects",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev:lcp": "pnpm -F next-lcp-priority dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
